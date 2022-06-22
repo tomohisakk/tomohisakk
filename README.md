@@ -1,5 +1,4 @@
-![Metrics](https://github.com/yutkat/yutkat/blob/main/github-metrics.svg)
-
+## 👋 Hi! I'm tomohisakk
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutkat&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yutkat&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
